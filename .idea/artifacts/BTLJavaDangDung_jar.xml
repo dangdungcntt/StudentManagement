@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BTLJavaDangDung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BTLJavaDangDung_jar</output-path>
+    <root id="archive" name="BTLJavaDangDung.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/PL/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="StudentManagement" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-5.1.40-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/sqljdbc42.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jsoup-1.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

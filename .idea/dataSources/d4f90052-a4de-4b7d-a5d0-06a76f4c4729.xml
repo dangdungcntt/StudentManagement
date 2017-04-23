@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="btljava@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.1">
+    <root id="1"/>
+    <schema id="2" parent="1" name="btljava">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="btlcsdl"/>
+    <schema id="4" parent="1" name="information_schema"/>
+    <schema id="5" parent="1" name="itc_02"/>
+    <schema id="6" parent="1" name="mysql"/>
+    <schema id="7" parent="1" name="performance_schema"/>
+    <schema id="8" parent="1" name="phpmyadmin"/>
+    <schema id="9" parent="1" name="react_native_buoi3dangky"/>
+    <schema id="10" parent="1" name="rutgonlink"/>
+    <schema id="11" parent="1" name="test"/>
+    <schema id="12" parent="1" name="testconnectorjava"/>
+    <schema id="13" parent="1" name="verjava"/>
+    <table id="14" parent="2" name="thisinh"/>
+    <table id="15" parent="2" name="tinhthanh"/>
+    <column id="16" parent="14" name="MaThiSinh">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="17" parent="14" name="HoVaTen">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="18" parent="14" name="MaQueQuan">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="19" parent="14" name="NgaySinh">
+      <Position>4</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <column id="20" parent="14" name="GioiTinh">
+      <Position>5</Position>
+      <DataType>tinyint(1)|0</DataType>
+    </column>
+    <column id="21" parent="14" name="Toan">
+      <Position>6</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="22" parent="14" name="Ly">
+      <Position>7</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="23" parent="14" name="Hoa">
+      <Position>8</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <index id="24" parent="14" name="fk_thisinh_maquequan">
+      <ColNames>MaQueQuan</ColNames>
+    </index>
+    <key id="25" parent="14" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>MaThiSinh</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="26" parent="14" name="fk_thisinh_maquequan">
+      <ColNames>MaQueQuan</ColNames>
+      <RefSchemaName>btljava</RefSchemaName>
+      <RefTableName>tinhthanh</RefTableName>
+      <RefColNames>MaTinh</RefColNames>
+    </foreign-key>
+    <column id="27" parent="15" name="MaTinh">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="28" parent="15" name="TenTinh">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <key id="29" parent="15" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>MaTinh</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

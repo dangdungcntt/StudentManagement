@@ -1,0 +1,64 @@
+STR_TITLE:Quản lý sinh viên
+STR_FILTER: Lọc
+STR_ADD: Thêm
+STR_EDIT: Sửa
+STR_DELETE: Xóa
+STR_OK:  OK
+STR_EXIT: Thoát
+STR_CANCEL: Hủy
+STR_UPDATE:Cập nhật
+STR_LATER:Sau
+STR_NO:STT
+STR_NEXT:Tiếp
+STR_PREVIOUS:Trước
+STR_ABOUT:About
+STR_FILE:File
+STR_HELP:Help
+STR_SETTINGS:Cài đặt
+STR_REFRESH:Làm mới
+STR_EXIT_MENU:Thoát
+STR_CHECK_UP_DATE:Kiểm tra cập nhật...
+STR_GO_TO_PAGE:Đi đến trang
+STR_SYSTEM:Hệ thống
+STR_DATABASE:Cơ sở dữ liệu
+STR_SYSTEM_LANGUAGE:Ngôn ngữ hệ thống
+STR_STUDENT_ID:Mã Sinh Viên
+STR_STUDENT_NAME:Họ và tên
+STR_STUDENT_CITY:Quê quán
+STR_STUDENT_BIRTH:Ngày sinh
+STR_STUDENT_GENDER:Giới tính
+STR_STUDENT_MALE:Nam
+STR_STUDENT_FEMALE:Nữ
+STR_STUDENT_MATH:Toán
+STR_STUDENT_PHYSICAL:Lý
+STR_STUDENT_CHEMISTRY:Hóa
+STR_STUDENT_SUM:Tổng điểm
+STR_TEST_CONNECT:Kiểm tra kết nối
+STR_LINK_CHECK_UP_DATE:Đường dẫn cập nhật
+STR_NOTE:Những cài đặt gặp lỗi sẽ không được lưu lại.
+STR_STUDENT_PER_PAGE:Số thí sinh mỗi trang
+TIT_FILTER:Lọc thí sinh
+TIT_LIST:Danh sách thí sinh
+TIT_INFOR:Thông tin thí sinh
+TIT_ADD:Thêm thí sinh
+TIT_EDIT:Sửa thí sinh
+TIT_CHECK_UPDATE:Kiểm tra cập nhật
+TIT_FORMAT_ERROR:Lỗi định dạng
+TIT_CONFIRM_EXIT:Xác nhận thoát
+TIT_CONFIRM_DELETE_STUDENT:Xác nhận xóa thí sinh
+TIT_ERROR:Lỗi
+TIT_SUCCESS:Thành công
+TIT_SYSTEM_ERROR:Lỗi hệ thống
+TIT_CONFIRM_ADD_STUDENT:Xác nhận
+TIT_SAVE_SETTINGS:Đã lưu
+
+
+
+
+
+
+
+
+
+
+

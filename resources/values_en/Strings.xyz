@@ -1,0 +1,64 @@
+STR_TITLE:Student Management
+STR_FILTER: Filter
+STR_ADD: Add
+STR_EDIT: Edit
+STR_DELETE: Delete
+STR_OK:  OK
+STR_EXIT: Exit
+STR_CANCEL: Cancel
+STR_UPDATE:Update
+STR_LATER:Later
+STR_NO:No
+STR_NEXT:Next
+STR_PREVIOUS:Previous
+STR_ABOUT:About
+STR_FILE:File
+STR_HELP:Help
+STR_SETTINGS:Settings
+STR_REFRESH:Refresh
+STR_EXIT_MENU:Exit
+STR_CHECK_UP_DATE:Check for Update...
+STR_GO_TO_PAGE:Go to page
+STR_SYSTEM:System
+STR_DATABASE:Database
+STR_SYSTEM_LANGUAGE:System language
+STR_STUDENT_ID:Student ID
+STR_STUDENT_NAME:Full Name
+STR_STUDENT_CITY:City
+STR_STUDENT_BIRTH:Birth
+STR_STUDENT_GENDER:Gender
+STR_STUDENT_MALE:Male
+STR_STUDENT_FEMALE:Female
+STR_STUDENT_MATH:Math
+STR_STUDENT_PHYSICAL:Physical
+STR_STUDENT_CHEMISTRY:Chemistry
+STR_STUDENT_SUM:Sum
+STR_TEST_CONNECT:Test connect
+STR_LINK_CHECK_UP_DATE:Link check update
+STR_NOTE:All setting have an error will not be saved
+STR_STUDENT_PER_PAGE:Student per page
+TIT_FILTER:Filter Student
+TIT_LIST:List Student
+TIT_INFOR:Student Information
+TIT_ADD:Add student
+TIT_EDIT:Edit student
+TIT_CHECK_UPDATE:Check for Update
+TIT_FORMAT_ERROR:Format error
+TIT_CONFIRM_EXIT:Confirm Exit
+TIT_CONFIRM_DELETE_STUDENT:Confirm delete student
+TIT_ERROR:Error
+TIT_SUCCESS:Success
+TIT_SYSTEM_ERROR:System error
+TIT_CONFIRM_ADD_STUDENT:Confirm
+TIT_SAVE_SETTINGS:Saved
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//resources/config/LanguageSupport.xyz=UTF-8
+encoding//resources/values_vi/Messages.xyz=UTF-8
+encoding//resources/values_vi/Strings.xyz=UTF-8
+encoding//src/BLL/CityBLL.java=UTF-8
+encoding//src/BLL/StudentBLL.java=UTF-8
+encoding//src/DAL/Env.java=UTF-8
+encoding//src/PL/MainScreen/Filter/FilterPanel.java=UTF-8
+encoding//src/PL/MainScreen/InforAndControl/ButtonPanel.java=UTF-8
+encoding//src/PL/MainScreen/ListStudent/ListPanel.java=UTF-8
+encoding//src/PL/MainScreen/MainFrame.java=UTF-8
+encoding//src/PL/MainScreen/MainPanel.java=UTF-8
+encoding//src/PL/MainScreen/MainScreenMenuBar.java=UTF-8
+encoding//src/PL/StudentManagement.java=UTF-8
+encoding//src/PL/Tools/CustomPanel.java=UTF-8
+encoding//src/PL/Tools/ShowDialog.java=UTF-8
+encoding/<project>=UTF-8

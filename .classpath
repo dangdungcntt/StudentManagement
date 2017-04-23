@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_131"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.40-bin"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsoup-1.10.2"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/jcalendar-1.4"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson-2.8.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/sqljdbc42"/>
+	<classpathentry kind="lib" path="D:/HocTap/IntellijProjects/StudentManagement/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/HocTap/IntellijProjects/StudentManagement/libs/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/HocTap/IntellijProjects/StudentManagement/libs/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="D:/HocTap/IntellijProjects/StudentManagement/libs/sqljdbc42.jar"/>
+	<classpathentry kind="output" path="out/production/BTLJavaDangDung"/>
+</classpath>

@@ -1,0 +1,67 @@
+MESS_UPDATE_AVAILABLE:New Updates are available!
+MESS_UPTODATE:Student Management is up to date!
+MESS_UPDATE_FAILED:Update unsuccessfully, try again later!
+MESS_CANNOT_CHECK_UPDATE:Cannot check update, try again later!
+MESS_CANNOT_CONNECT_INTERNET:Cannot connect to Internet
+MESS_UNDEFINED:UNDEFINED ERROR
+MESS_UPDATED_TO:Updated to
+MESS_STUDENID_IS_INT:Student ID is a number!
+MESS_CANNOT_OPEN_FILE:Cannot open file
+MESS_FILE:File
+MESS_NOT_FOUND: not found!
+MESS_CONFIRM_EXIT:Are you sure you want to exit Student Management?
+MESS_SURE_DELETE:Are you sure to delete
+MESS_STUDENT_ID_EXISTS:Student ID already exists!
+MESS_STUDENT_ADDED:Student successfully added!
+MESS_STUDENT_UPDATED:Update successfully!
+MESS_STUDENT_DELETED:Deleted!
+MESS_CANNOT_CONNECT_DATABASE:Cannot connect to database
+MESS_PLEASE_CHECK_CONNECTION:Please check the connection
+MESS_CHOOSE_FILE_REFRESH:Choose File/Refresh to try again
+MESS_CITY_NOT_EXISTS:City not exists!
+MESS_NAME_INVALID:Name invalid
+MESS_BIRTH_INVALID:Birth invalid
+MESS_MATH_INVALID:Math invalid
+MESS_PHYSICAL_INVALID:Physical invalid
+MESS_CHEMISTRY_INVALID:Chemistry invalid
+MESS_CONFIRM_ADD_STUDENT:Are you sure to add student
+MESS_CONFIRM_DELETE_STUDENT:Are you sure to delete student
+MESS_PAGE_NUMBER_IS_INTEGER:Page number is integer
+MESS_SAVE_SETTINGS:Saved. After restart, all setting will be applied.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

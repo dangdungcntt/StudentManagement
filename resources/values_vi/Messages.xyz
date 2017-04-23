@@ -1,0 +1,67 @@
+MESS_UPDATE_AVAILABLE:Có bản cập nhật mới!
+MESS_UPTODATE:Phiên bản hiện tại là mới nhất!
+MESS_UPDATE_FAILED:Cập nhật không thành công, thử lại sau!
+MESS_CANNOT_CHECK_UPDATE:Không thể kiểm tra cập nhật, thử lại sau!
+MESS_CANNOT_CONNECT_INTERNET:Không thể kết nối Internet
+MESS_UNDEFINED:Lỗi không xác định
+MESS_UPDATED_TO:Cập nhật lên
+MESS_STUDENID_IS_INT:Mã thí sinh là số nguyên!
+MESS_CANNOT_OPEN_FILE:Không thể mở tệp
+MESS_FILE:Tệp
+MESS_NOT_FOUND: không tồn tại!
+MESS_CONFIRM_EXIT:Đồng ý thoát Quản lý thí sinh?
+MESS_SURE_DELETE:Đồng ý xóa
+MESS_STUDENT_ID_EXISTS:Mã thí sinh đã tồn tại!
+MESS_STUDENT_ADDED:Thêm thành công thí sinh!
+MESS_STUDENT_UPDATED:Cập nhật thành công!
+MESS_STUDENT_DELETED:Đã xóa thí sinh!
+MESS_CANNOT_CONNECT_DATABASE:Không thể kết nối cơ sở dữ liệu
+MESS_PLEASE_CHECK_CONNECTION:Kiểm tra lại kết nối
+MESS_CHOOSE_FILE_REFRESH:Chọn File/Làm mới để thử lại
+MESS_CITY_NOT_EXISTS:Tỉnh thành không tồn tại!
+MESS_NAME_INVALID:Tên chỉ gồm chữ cái và khoảng trống
+MESS_BIRTH_INVALID:Ngày sinh không hợp lệ
+MESS_MATH_INVALID:Điểm toán không hợp lệ
+MESS_PHYSICAL_INVALID:Điểm lý không hợp lệ
+MESS_CHEMISTRY_INVALID:Điểm hóa không hợp lệ
+MESS_CONFIRM_ADD_STUDENT:Đồng ý thêm thí sinh
+MESS_CONFIRM_DELETE_STUDENT:Đồng ý xóa thí sinh
+MESS_PAGE_NUMBER_IS_INTEGER:Số trang là số nguyên
+MESS_SAVE_SETTINGS:Đã lưu cài đặt. Các thiết lập có hiệu lực sau khi khởi động lại
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
