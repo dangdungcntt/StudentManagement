@@ -4,6 +4,7 @@ StudentManagement JAVA SWING
 
 ### Screen
 
+![About](https://github.com/dangdungcntt/StudentManagement/raw/master/screenshots/0.png)
 ![Home](https://github.com/dangdungcntt/StudentManagement/raw/master/screenshots/1.png)
 ![Settings/System](https://github.com/dangdungcntt/StudentManagement/raw/master/screenshots/2.png)
 ![Settings/Database](https://github.com/dangdungcntt/StudentManagement/raw/master/screenshots/3.png)
